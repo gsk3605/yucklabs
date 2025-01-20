@@ -67,20 +67,12 @@ export default function Home() {
       <div className="relative flex flex-col items-center w-[80vw] h-1/4 m-6 max-w-[1200px]">
         <Card>
           <CardHeader>
-            <CardTitle className="text-black text-sm font-extrabold uppercase text-center">
+            <CardTitle className="text-black text-4xl font-extrabold uppercase text-center">
               <p>
-                Even when I was a kid, I would put my toys away one at a time. In
-                this way, I ensured their care, safety, attention, love, and place.
-                I didn’t want any of my toys to feel neglected and would feel actual
-                guilt if there were any toys that I didn’t include in something.
+                i left some errors for u
               </p>
               <p>
-                I’m only realizing this now, but I approach my drawings with the
-                same sensibility and care. Any drawing I’ve made, or will make, is
-                part of the same collection. All my drawings know each other and
-                are only as powerful as the family of drawings (not series) they
-                exist within. They live in piles in my studio and are dependent on
-                one another but are also very autonomous.
+               ; )
               </p>
             </CardTitle>
           </CardHeader>

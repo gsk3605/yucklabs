@@ -74,8 +74,8 @@ export default function Home() {
           {/* GSK Card */}
           <Card className="flex items-center backdrop-blur-md justify-center bg-transparent w-1/2 max-w-[50%] min-w-[40%] text-center border border-black shadow-lg rounded-lg mt-10 p-6 animate-fade-to-white">
             <CardHeader>
-              <CardTitle className="text-black text-4xl font-extrabold uppercase animate-fade-to-black-text text-center">
-                <span className="block">GSK</span>
+              <CardTitle className="text-black text-2xl font-extrabold uppercase animate-fade-to-black-text text-center">
+                <span className="block">..hearts..</span>
               </CardTitle>
             </CardHeader>
           </Card>
@@ -90,8 +90,8 @@ export default function Home() {
 
             {/* Foreground Text */}
             <CardHeader className="relative z-[999]">
-              <span className="text-black text-4xl font-bold transition-all group-hover:text-red-500 animate-fade-to-black-text">
-                STUDIOS
+              <span className="text-black text-1xl font-bold transition-all group-hover:text-red-500 animate-fade-to-black-text">
+                yucklabs@gmail.com
               </span>
             </CardHeader>
           </Link>
