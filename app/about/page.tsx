@@ -67,9 +67,9 @@ export default function Home() {
       <div className="relative flex flex-col items-center w-[80vw] h-1/4 m-6 max-w-[1200px]">
         <Card>
           <CardHeader>
-            <CardTitle className="text-black text-sm font-extrabold uppercase text-center">
+            <CardTitle className="text-black text-4xl font-extrabold uppercase text-center">
               <p>
-                $$$$$$$$
+                $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
               </p>
               <p>
                $$$$$$$$

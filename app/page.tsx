@@ -70,7 +70,7 @@ export default function Home() {
         </DropdownMenu>
 
         {/* Cards Section */}
-        <div className="flex flex-col items-center w-full max-w-[1200px] px-4 gap-1 mt-16">
+        <div className="flex flex-col items-center w-full max-w-[1200px] px-4 gap-1 mt-24">
           {/* GSK Card */}
           <Card className="flex items-center backdrop-blur-md justify-center bg-transparent w-1/2 max-w-[50%] min-w-[40%] text-center border border-black shadow-lg rounded-lg mt-10 p-6 animate-fade-to-white">
             <CardHeader>

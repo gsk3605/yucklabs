@@ -69,7 +69,7 @@ export default function Home() {
           <CardHeader>
             <CardTitle className="text-black text-4xl font-extrabold uppercase text-center">
               <p>
-                i left some errors for u
+                i left some errors for
               </p>
               <p>
                ; )
